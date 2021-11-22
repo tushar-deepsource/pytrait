@@ -3,3 +3,7 @@ version = 1
 [[analyzers]]
 name = "secrets"
 enabled = true
+
+[[analyzers]]
+name = "github.com/tushar-deepsource/merge-conflict-checker"
+enabled = true
